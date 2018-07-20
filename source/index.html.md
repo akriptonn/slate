@@ -19,7 +19,6 @@ search: true
 
 # Introduction
 
-aa565700bf5cebbf149ce3a6a744b944b31592ac
 Berikut adalah library untuk arduino yang dapat digunakan di Running text berupa P5 dengan resolusi 64x32. Bahasa pemrograman yang digunakan adalah C++. Library ini memanfaatkan library dari [PxMatrix](https://github.com/2dom/PxMatrix). Fitur yang ditambahkan di sini yakni membuat scrolling text ke arah kiri, dan menampilkan peringatan.
 
 Dokumentasi library ini dibuat dengan [Slate](https://github.com/lord/slate).
