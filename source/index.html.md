@@ -1,11 +1,11 @@
 ---
-title: API Reference
+title: P5 Matriks API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - shell
-  - ruby
-  - python
-  - javascript
+  - C++
+  
+Supported Platform: # must be one of https://git.io/vQNgJ
+  - ESP8266 with Arduino IDE
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
@@ -19,11 +19,9 @@ search: true
 
 # Introduction
 
-Welcome to the KRIPTONEAGER API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Berikut adalah library untuk arduino yang dapat digunakan di Running text berupa P5 dengan resolusi 64x32. Bahasa pemrograman yang digunakan adalah C++. Library ini memanfaatkan library dari [PxMatrix](https://github.com/2dom/PxMatrix). Fitur yang ditambahkan di sini yakni membuat scrolling text ke arah kiri, dan menampilkan peringatan.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
-
-This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+Dokumentasi library ini dibuat dengan [Slate](https://github.com/lord/slate).
 
 # Authentication
 
